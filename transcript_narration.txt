@@ -1,0 +1,86 @@
+WAR-INTERCEPT.WAV — NARRATION TRANSCRIPT (final)
+Source: denoised audio (challenge3_output/war-intercept_cleaned.wav)
+Engine: OpenAI Whisper large-v3 (local). Language: English (confidence 1.00).
+Note: machine-transcribed from degraded 1940s audio; a few words marked [?] are best-effort.
+Content: a WWII-era radio dramatisation of a US soldier's Christmas letter home.
+================================================================================
+
+NARRATOR — CHARLIE (reading his letter):
+    "England. December 30th, 1942. Dear Mother, Dad, and Gang.
+     Though I'm not supposed to tell you where I've been, I think even the
+     hardest of censors[?] would let a guy tell about Christmas Day as I enjoyed
+     it over here. I have to start with Christmas Eve — it was then I opened your
+     various Christmas parcels. Some of the fellows — the rats — were standing
+     around helping and grabbing..."
+
+    [BARRACKS — Christmas Eve]
+    SOLDIER:  "Hey, lay off, you guys — these are my cookies!"  "Oh, I like chocolate."
+    SOLDIER:  "Hey, Charlie, your mother's a swell cook."
+    SOLDIER:  "Open this one, Charlie — it's small but heavy."
+    CHARLIE:  "Hey, will you look at that — that's what I've been yelling for!"
+    SOLDIER:  "What is it?"
+    CHARLIE:  "Oh, that's a pocket whetstone! Isn't that swell? My father sent me that.
+               Now I don't care whether I can get new razor blades or not."
+    SOLDIER:  "You better hang on to that, brother, or I'll be swiping it."
+    CHARLIE:  "You can have anything but my whetstone — and I'm going to hang on to it."
+    [SFX: someone bangs on the door]   CHARLIE: "Come in."
+    [later — a note arrives]
+    CHARLIE:  "Hey — I'm going to have dinner with the Queen!"
+    SOLDIER:  "She's been out in the sun too long."
+    CHARLIE:  "That's what the note says. Lieutenant Sam Brush and me —"
+    OTHERS:   "Me too."  "Yeah."
+    CHARLIE:  "— have been chosen as the two American officers to have Christmas
+               dinner with Queen Mary."
+    SOLDIER:  "Wow!"
+
+NARRATOR — CHARLIE:
+    "I wasn't kidding, Mother and Dad — we really were invited. You've always told
+     me it was nice to take along some little thing for your hostess, so thanks to
+     your Christmas presents I put together a small package for the Queen. I admit
+     I hesitated over what to put in — it was hardly a royal-looking parcel, just a
+     box labelled 'Perfection Paper Clips, thick — a gross' — but I somehow thought
+     the Queen wouldn't mind."
+
+    [THE RECEPTION]
+    CHARLIE:      "Well, when we got there — 'Your Majesty: Captain Charles
+                   Baddeley, Lieutenant [Sam] Brush.'"
+    QUEEN MARY:   "How do you do, Captain Baddeley, Lieutenant Brush — I'm very glad
+                   to see you. It was very nice of you to come."
+    CHARLIE (aside): "It was nice of us. Golly."
+    QUEEN MARY:   "I say — Christmas is a time when we all want to be with our own
+                   family. But if you can't, well, the next best thing is to be with
+                   someone else's, don't you think? My family's broken up by the war
+                   too, you know."
+    CHARLIE:      "Yes... yes, I guess that's so."
+    QUEEN MARY:   "Now, this being Christmas — will you accept a little gift from me?
+                   Captain Baddeley has one for you, and one for you."
+    OFFICERS:     "Thank you, Your Majesty."
+    QUEEN MARY:   "Captain Baddeley, I see you have a package — could that by any
+                   chance be a present for me?"
+    CHARLIE:      "Yes, it is, Your Majesty. You'll laugh, I guess — it isn't really
+                   paper clips, but that's the only box I have."
+    QUEEN MARY:   "Oh, what fun! Let's all open our presents together, shall we?"
+
+    [GIFTS OPENED]
+    VOICE:        "A silver cigarette case — and with your crest on it."
+    OFFICER:      "I got a silver pen, knife and pencil."
+    QUEEN MARY:   "...you know how we long for these over here — and for soap, too.
+                   Can you tell me what this little thing is?"
+    CHARLIE:      "Oh, it's a whetstone — to sharpen knives and razors and things."
+    QUEEN MARY:   "...maybe down in the kitchen... Oh, it's the very thing you need.
+                   I know these came in your Christmas boxes from home, and I think
+                   it's very generous of you to share them with me. Now — join the
+                   other guests and go in to dinner. Captain Baddeley, you're to sit
+                   on my left; I'd like to hear about your [mess?] and your family,
+                   and all the things you do at home."
+
+NARRATOR — CHARLIE:
+    "When Lieutenant Brush and I left at midnight, it was as if we'd spent an
+     evening with old friends. It was grand.
+     Must close now. Hope you are all well.
+     Love, Charlie."
+
+================================================================================
+Characters: CHARLIE (the letter-writer/narrator); Captain Charles BADDELEY;
+Lieutenant Sam BRUSH; QUEEN MARY. (Names transcribed from degraded audio by
+Whisper large-v3; spellings approximate.)
