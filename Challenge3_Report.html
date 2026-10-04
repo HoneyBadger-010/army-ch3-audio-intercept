@@ -94,9 +94,11 @@
   .divider{margin:26px 0 0;border-top:2px dashed var(--rule2);padding-top:4px;font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);}
   .foot{margin-top:26px;padding-top:10px;border-top:2px solid var(--ink);display:flex;justify-content:space-between;font-family:var(--mono);font-size:9.5px;color:var(--ink3);}
 
-  .linkbar{display:flex;flex-wrap:wrap;align-items:center;gap:7px 16px;margin:13px 0 2px;padding:9px 14px;border:1px solid var(--rule2);border-left:3px solid var(--red);background:var(--panel);font-size:11.7px;}
-  .linkbar .lb-k{font-family:var(--mono);font-size:9px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--red);}
-  .linkbar a{color:var(--blue);text-decoration:none;border-bottom:1px solid var(--rule2);} .linkbar a b{color:inherit;}
+  .linkbar{margin:13px 0 2px;padding:10px 15px;border:1px solid var(--rule2);border-left:3px solid var(--red);background:var(--panel);}
+  .linkbar .lb-k{font-family:var(--mono);font-size:9px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--red);margin-bottom:5px;}
+  .linkbar .lb-row{font-size:11.7px;line-height:1.45;margin:3px 0;}
+  .linkbar a{color:var(--blue);text-decoration:none;} .linkbar a b{color:inherit;}
+  .linkbar .lb-url{font-family:var(--mono);font-size:9.7px;color:var(--ink3);word-break:break-all;}
 
   @media print{
     @page{size:A4;margin:14mm 13mm;}
@@ -118,10 +120,10 @@
   </div>
 
   <div class="linkbar">
-    <span class="lb-k">Hear the result</span>
-    <a href="https://github.com/HoneyBadger-010/army-ch3-audio-intercept/raw/main/audio/war-intercept_cleaned.wav"><b>&#9654;&nbsp;Cleaned audio (final)</b></a>
-    <a href="https://github.com/HoneyBadger-010/army-ch3-audio-intercept/raw/main/audio/war-intercept_original.wav">Original (jammed) audio</a>
-    <a href="https://github.com/HoneyBadger-010/army-ch3-audio-intercept">Code &amp; results repository</a>
+    <div class="lb-k">Hear the result &mdash; click, or type the link if clicking does not work</div>
+    <div class="lb-row"><a href="https://github.com/HoneyBadger-010/army-ch3-audio-intercept/raw/main/audio/war-intercept_cleaned.wav"><b>&#9654;&nbsp;Cleaned audio (final)</b></a> &nbsp;<span class="lb-url">https://github.com/HoneyBadger-010/army-ch3-audio-intercept/raw/main/audio/war-intercept_cleaned.wav</span></div>
+    <div class="lb-row"><a href="https://github.com/HoneyBadger-010/army-ch3-audio-intercept/raw/main/audio/war-intercept_original.wav"><b>&#9654;&nbsp;Original (jammed) audio</b></a> &nbsp;<span class="lb-url">https://github.com/HoneyBadger-010/army-ch3-audio-intercept/raw/main/audio/war-intercept_original.wav</span></div>
+    <div class="lb-row"><a href="https://github.com/HoneyBadger-010/army-ch3-audio-intercept"><b>Code &amp; results repository</b></a> &nbsp;<span class="lb-url">https://github.com/HoneyBadger-010/army-ch3-audio-intercept</span></div>
   </div>
 
   <h2><span class="no">01</span>Personal Details</h2>
