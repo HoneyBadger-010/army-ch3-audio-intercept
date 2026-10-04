@@ -94,6 +94,10 @@
   .divider{margin:26px 0 0;border-top:2px dashed var(--rule2);padding-top:4px;font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);}
   .foot{margin-top:26px;padding-top:10px;border-top:2px solid var(--ink);display:flex;justify-content:space-between;font-family:var(--mono);font-size:9.5px;color:var(--ink3);}
 
+  .linkbar{display:flex;flex-wrap:wrap;align-items:center;gap:7px 16px;margin:13px 0 2px;padding:9px 14px;border:1px solid var(--rule2);border-left:3px solid var(--red);background:var(--panel);font-size:11.7px;}
+  .linkbar .lb-k{font-family:var(--mono);font-size:9px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--red);}
+  .linkbar a{color:var(--blue);text-decoration:none;border-bottom:1px solid var(--rule2);} .linkbar a b{color:inherit;}
+
   @media print{
     @page{size:A4;margin:14mm 13mm;}
     html,body{background:#fff;} .sheet{max-width:none;margin:0;box-shadow:none;} .pad{padding:0;}
@@ -111,6 +115,13 @@
       <h1>Challenge 3 — Audio Intercept:<br/>denoising and transcription</h1>
     </div>
     <div class="meta">war-intercept.wav<br/>Eastern Command<br/>October 2026</div>
+  </div>
+
+  <div class="linkbar">
+    <span class="lb-k">Hear the result</span>
+    <a href="https://github.com/HoneyBadger-010/army-ch3-audio-intercept/raw/main/audio/war-intercept_cleaned.wav"><b>&#9654;&nbsp;Cleaned audio (final)</b></a>
+    <a href="https://github.com/HoneyBadger-010/army-ch3-audio-intercept/raw/main/audio/war-intercept_original.wav">Original (jammed) audio</a>
+    <a href="https://github.com/HoneyBadger-010/army-ch3-audio-intercept">Code &amp; results repository</a>
   </div>
 
   <h2><span class="no">01</span>Personal Details</h2>
